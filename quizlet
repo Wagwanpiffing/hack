@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         Quizlet micromatch bot
-// @namespace    Danielv123
+// @namespace    TRv1.3
 // @version      3.1
 // @description  Win micromatch in < 100 seconds!
-// @author       You
+// @author       Ben
 // @match        https://quizlet.com/*/micro*
 // @grant        none
 // ==/UserScript==
